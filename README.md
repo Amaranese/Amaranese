@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/amaranese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amaranese" height="30" width="40" /></a>
+<a href="https://dev.to/amaranese" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="amaranese" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandro-mara%c3%b1%c3%a9s-escribano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-mara%c3%b1%c3%a9s-escribano/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:271945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:271945" height="30" width="40" /></a>
 <a href="https://codesandbox.com/amaranese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="amaranese" height="30" width="40" /></a>
