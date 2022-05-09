@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend/backend developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amaranese&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="amaranese" /> </p>
-<img alt="APM" src="https://img.shields.io/apm/l/vim-mode?style=for-the-badge">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaranese" alt="amaranese" /></a> </p>
 
 - 🔭 I’m currently working on **IT Backend development**
