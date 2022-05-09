@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alejandro Marañés Escribano</h1>
 <h3 align="center">A passionate frontend/backend developer from Spain</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaranese&label=Profile%20views&color=0e75b6&style=flat" alt="amaranese" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amaranese&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="amaranese" /> </p>
 <p align="center"><img src="https://img.shields.io/github/issues/Amaranese/Amaranese" alt=amaranese /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amaranese" alt="amaranese" /></a> </p>
